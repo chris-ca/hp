@@ -2,8 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
-    {% if site.matomo %}
-      var _paq = window._paq || [];
+{% if site.matomo %}
+<script type="text/javascript">
+    var _paq = window._paq || [];
       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
@@ -14,7 +15,9 @@
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
       })();
-  {% endif %}
+</script>
+<noscript><p><img src="https://bumpyroad.org/matomo/matomo.php?idsite={{ site.matomo }}&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+{% endif %}
     <meta charset="UTF-8">
 
 {% seo %}
