@@ -1,3 +1,7 @@
+---
+description: Looking for a new challenge
+---
+
 # Hello!
 My name is Christian Weyland and I'm an outdoor, cycling and web enthusiast born and raised in Germany. I've lived and worked in Germany, Canada and Switzerland.
 
@@ -8,7 +12,7 @@ I'm originally a full-stack (LAMP) web developer with a strong liking for devops
 
 - As **online marketing specialist** for the German source market
 - As a **key account manager** and technical contact for a multinational team 
-- As a **product owner** for website + APIs
+- As a **product owner** (SCRUM/PSPO) for website + APIs
 
 ## Travel
 From 6/2018 to 3/2023 I've been on a self-funded, extensive bicycle trip covering more than 40 countries. My travel website [bumyproad.org](https://bumpyroad.org) has some details including my route and lots of photos.
