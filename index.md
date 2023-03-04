@@ -1,8 +1,8 @@
 ---
-description: Looking for a new challenge
+title: This is Chris
+description: I'm looking for a new challenge
 ---
 
-# Hello!
 My name is Christian Weyland and I'm an outdoor, cycling and web enthusiast born and raised in Germany. I've lived and worked in Germany, Canada and Switzerland.
 
 As of March 2023 I'm open to job opportunities in Western Europe.
