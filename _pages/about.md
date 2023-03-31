@@ -42,3 +42,10 @@ While coding was not a requirement for my later positions I could use it on many
 The code I've created at work remains closed source but my [Github repository](https://github.com/chris-ca/) has a few bits on projects I've done in my spare time.
 
 [Coding skills]({{ site.baseurl }}/skills){: .btn .btn--info}
+
+## And finally
+This is what Ursula von der Leyen (president of EU commission) had to say about BUMPYROAD:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KUBqDMLqkK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+😉
