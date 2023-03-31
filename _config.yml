@@ -22,7 +22,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: air
 search: true
 logo: "/assets/images/logo-wey.land.png"
-baseurl: /
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
