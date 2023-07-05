@@ -2,7 +2,7 @@
 title: About
 permalink: /
 layout: single
-date: 2023-03-30T12:30:01+0200
+date: 2023-07-05T11:15:00+0200
 ---
 
 My name is Christian ("Chris") Weyland and I'm an outdoor, cycling and web enthusiast born and raised in Germany. I've lived and worked in Germany, Canada and Switzerland.
@@ -18,15 +18,9 @@ I'm originally a full-stack _LAMP web developer_ with a strong liking for devops
 - As **online marketing specialist** for the German source market
 - As a **key account manager** and technical contact for a multinational team 
 - As a **product owner** (SCRUM/PSPO) for website + APIs
-
+- As a **business owner** for customer experience (current role)
+ 
 [Read the full CV]({{ site.baseurl }}/cv){: .btn .btn--info}
-
-## What I'm looking for 
-
-- I excel and enjoy most working in a position as middleman between business and IT, e.g. as a product owner
-- I'm most interested to work on products or projects dealing with sustainability, travel, or digitization, but open to investigate other industries
-- I'm happy to work in any country in EU, but prefer a position in Germany
-- I'm open to both, remote or onsite work
 
 ## Travel
 ![]({{ site.baseurl}}/assets/images/cyclist2019.jpg){: .align-right}
