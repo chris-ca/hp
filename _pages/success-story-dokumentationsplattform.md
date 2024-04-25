@@ -1,5 +1,5 @@
 ---
-permalink: /success-story--dokumentationsplattform/
+permalink: /success-story-dokumentationsplattform/
 title: "Dokumentations- und Supportplattform für Vertriebspartner"
 subtitle: "Success story"
 ---
