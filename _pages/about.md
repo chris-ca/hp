@@ -2,14 +2,12 @@
 title: About
 permalink: /
 layout: single
-date: 2023-07-05T11:15:00+0200
+date: 2024-04-25T08:12:00+0200
 ---
 
 My name is Christian ("Chris") Weyland and I'm an outdoor, cycling and web enthusiast born and raised in Germany. I've lived and worked in Germany, Canada and Switzerland.
 
 I speak fluent _German_, _English_, a decent bit of _Français_ and I can understand (though not speak) some of the _Swiss German_ dialects.
-
-<div class="notice notice--warning"><strong>🇩🇪 Meine Muttersprache ist deutsch</strong>. Meine privaten Webseiten pflege ich aber hauptsächlich auf englisch, da ich mich häufig in internationalen Kontexten bewege. Sprich mich einfach an, wenn du bestimmte Infos auf deutsch benötigst!</div>
 
 ## Professional background
 
@@ -18,7 +16,7 @@ I'm originally a full-stack _LAMP web developer_ with a strong liking for devops
 - As **online marketing specialist** for the German source market
 - As a **key account manager** and technical contact for a multinational team 
 - As a **product owner** (SCRUM/PSPO) for website + APIs
-- As a **business owner** for customer experience (current role)
+- As a **project manager** for IT/web projects (current role)
  
 [Read the full CV]({{ site.baseurl }}/cv){: .btn .btn--info}
 
