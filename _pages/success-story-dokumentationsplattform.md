@@ -20,7 +20,7 @@ Ein Reiseveranstalter verteilt Produktdaten über eine API an internationale Ver
 
 - Launch einer separaten Dokumentationsplattform unter eigenständiger Domain
 - Aufbau eines Wikis mit aktuellen Beispielen
-- Integration eines HTML-Formulars ("Webservice Demo"), über welches auch der 1st Level Support Hilfestellung geben kann
+- Aufbau einer PHP-Applikation zum Absetzen von API-Calls ("Webservice Demo"), über welche auch der 1st Level Support Hilfestellung geben kann
 
 ## Eigene Leistungen
 
